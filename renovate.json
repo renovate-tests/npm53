@@ -1,4 +1,5 @@
 {
+  "rollbackPrs": false,
   "rollback": {
     "labels": ["rollback"]
   }
